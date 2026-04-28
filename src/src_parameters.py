@@ -8,3 +8,5 @@
 DATASET_LIST = "Video_Games_Sales_(1980-2024)_Raw.csv"
 
 RF_NUM_ITERATIONS = 10
+
+RANDOM_STATE = 42
